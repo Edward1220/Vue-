@@ -8,7 +8,7 @@
 
 ### 	1.2 	解压Nginx压缩包
 
-<img src="C:\Users\xp\AppData\Roaming\Typora\typora-user-images\image-20210524091019519.png" alt="image-20210524091019519"  />
+<img src="https://raw.githubusercontent.com/Edward1220/Vue-project-publish-and-proxy-config/master/image/nginxpath.png"/>
 
 ### 	1.3 	托管项目文件配置
 
@@ -16,13 +16,13 @@
 >
 > 配置Vue 项目打包后的dist文件夹路径
 
-​	<img src="C:\Users\xp\AppData\Roaming\Typora\typora-user-images\image-20210524091601877.png" alt="image-20210524091601877"  />
+​	<img src="https://raw.githubusercontent.com/Edward1220/Vue-project-publish-and-proxy-config/master/image/configdistpath.png"/>
 
 ### 1.4	 反向代理配置
 
 > 新增 location /api 节点，配置 api 访问路径
 
-​		<img src="C:\Users\xp\AppData\Roaming\Typora\typora-user-images\image-20210524091746955.png" alt="image-20210524091746955"  />
+​		<img src="https://raw.githubusercontent.com/Edward1220/Vue-project-publish-and-proxy-config/master/image/configapipath.png"/>
 
 ### 1.5	格式参考
 
