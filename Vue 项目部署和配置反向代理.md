@@ -105,23 +105,23 @@ nginx -s quit ：完整有序的停止nginx
 
 > 安装后重启 IIS 会显示 Application Request Route Cache，打开该功能开启代理功能
 
-### <img src="C:\Users\xp\AppData\Roaming\Typora\typora-user-images\image-20210524095019334.png" alt="image-20210524095019334"  />
+### <img src="https://raw.githubusercontent.com/Edward1220/Vue-project-publish-and-proxy-config/master/image/arr.png"/>
 
-<img src="C:\Users\xp\AppData\Roaming\Typora\typora-user-images\image-20210524095140945.png" alt="image-20210524095140945"  />
+<img src="https://raw.githubusercontent.com/Edward1220/Vue-project-publish-and-proxy-config/master/image/configproxy.png"/>
 
-<img src="C:\Users\xp\AppData\Roaming\Typora\typora-user-images\image-20210524095209453.png" alt="image-20210524095209453"  />
+<img src="https://raw.githubusercontent.com/Edward1220/Vue-project-publish-and-proxy-config/master/image/setproxyenable.png"/>
 
 ### 	2.2	安装urlrewrite 配置url重写
 
 > 选中一个项目，配置 RUL 重写 
 
-![image-20210524095701291](C:\Users\xp\AppData\Roaming\Typora\typora-user-images\image-20210524095701291.png)
+![](https://raw.githubusercontent.com/Edward1220/Vue-project-publish-and-proxy-config/master/image/configurl.png)
 
 > 添加规则
 
-![image-20210524095834819](C:\Users\xp\AppData\Roaming\Typora\typora-user-images\image-20210524095834819.png)
+![](https://raw.githubusercontent.com/Edward1220/Vue-project-publish-and-proxy-config/master/image/addrule.png)
 
 > 配置规则
 
-## <img src="C:\Users\xp\AppData\Roaming\Typora\typora-user-images\image-20210524095332393.png" alt="image-20210524095332393"  />
+![](https://raw.githubusercontent.com/Edward1220/Vue-project-publish-and-proxy-config/master/image/editrule.png)
 
