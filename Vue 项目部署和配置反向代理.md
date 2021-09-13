@@ -36,12 +36,12 @@
         #access_log  logs/host.access.log  main;
 
         location / {
-            root   D:\SourceCode\iie-erp-assist\src\client\iie-erp-assist-client\dist;
+            root   D:\xxx\xxx\xxx\dist;
             index  index.html index.htm;
         }
 
         location /api {
-            proxy_pass  http://192.168.0.62:8070/api;
+            proxy_pass  http://192.168.0.1:8000/api;
         }
         #error_page  404              /404.html;
 
